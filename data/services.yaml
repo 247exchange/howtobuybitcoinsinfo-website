@@ -23,7 +23,9 @@ Yacuna:
   location: [bz]
   icon: https://www.247exchange.com/images/btc.ico
   url: https://www.247exchange.com/
-  content: 24/7 licensed international cryptocurrency exchanger. Buy, sell, exchange Bitcoin, Litecoin, Peercoin, Namecoin, etc. Accepting credit and debit cards, bank wire, SEPA transfer, e-wallets, local bank transfer, cash deposit, etc.
+  content: <p>24/7 licensed international cryptocurrency exchanger. Buy, sell, exchange Bitcoin, Litecoin, Peercoin, Namecoin, etc. Accepting credit and debit cards (including prepaid ones), bank wire, SEPA transfer, e-wallets, local bank transfer, cash deposit, etc.</p>
+  <p>Having more than 400 000 locations worldwide for instant buying and selling Bitcoin and altcoins via instant money transfers</p>
+  <p>Twitter: <a href="https://twitter.com/247exchange_com">@247exchange_com</></p>
   coins: [btc, ltc, ppc, nmc]
 
 hitbtc:
